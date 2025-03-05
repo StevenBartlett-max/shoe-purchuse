@@ -4,7 +4,7 @@ Welcome to the Shoe Purchase WebApp! This application allows users to browse, se
 
 ## Features
 
-- Browse a wide selection of shoes
+- Browse a wide selection of shoe
 - Filter shoes by brand, size, and price
 - View detailed information about each shoe
 - Add shoes to your shopping cart
